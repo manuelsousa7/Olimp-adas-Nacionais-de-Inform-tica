@@ -1,7 +1,7 @@
 /*
 Qualificação para a FINAL das Olimpiadas Nacionais de Informática 2015
 Linguagem: C++
-Pontos: 100
+Pontos: 100 / 100
 Complexidade Temporal: N log N
 Solved by Manuel Sousa
 */
